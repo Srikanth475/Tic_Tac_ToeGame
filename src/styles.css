@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.square {
+  background-color: cornflowerblue;
+  padding: 30px;
+  border-radius: 20px;
+  font-size: 30px;
+  color: red;
+  box-align: center;
+}
+.status {
+  text-align: center;
+  padding: 50px;
+  font-size: 40px;
+
+  border-radius: 30px;
+}
+.game-board {
+  align-self: center;
+  box-align: center;
+  /* padding: 20px; */
+}
+.button {
+  align-items: center;
+}
+.board-row {
+  align-self: center;
+}
